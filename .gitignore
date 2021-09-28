@@ -1,0 +1,12 @@
+/vendor/
+
+/web/sites/*/settings*.php
+/web/sites/*/services*.yml
+
+/web/sites/*/files
+/web/sites/*/private
+
+/web/sites/simpletest
+
+/web/sites/*/default/development.services.local.yml.default
+/web/sites/*/settings/settings.local.php
